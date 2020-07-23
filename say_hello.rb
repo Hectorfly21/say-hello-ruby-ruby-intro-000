@@ -1,2 +1,6 @@
-say_hello "Hector"
+require_relative '../spec_helper.rb'
+  describe "say_hello"do
+    
+  end
+
 end
