@@ -1,6 +1,3 @@
-require_relative '../spec_helper.rb'
-  describe "say_hello"do
-
-  end
-
+def say_hello Hector = "Ruby Programmer"
+  puts "Hello #{Hector}"
 end
