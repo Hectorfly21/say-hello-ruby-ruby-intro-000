@@ -1,1 +1,1 @@
-def say_hello "Hector!"
+say_hello "Hector"
